@@ -1,0 +1,67 @@
+C:\Slb\OtherCode\2020BGCbootcamp\ConsoleApp1\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.deps.json
+C:\Slb\OtherCode\2020BGCbootcamp\ConsoleApp1\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.dll
+C:\Slb\OtherCode\2020BGCbootcamp\ConsoleApp1\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.pdb
+C:\Slb\OtherCode\2020BGCbootcamp\ConsoleApp1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.csprojAssemblyReference.cache
+C:\Slb\OtherCode\2020BGCbootcamp\ConsoleApp1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.AssemblyInfoInputs.cache
+C:\Slb\OtherCode\2020BGCbootcamp\ConsoleApp1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.AssemblyInfo.cs
+C:\Slb\OtherCode\2020BGCbootcamp\ConsoleApp1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.csproj.CoreCompileInputs.cache
+C:\Slb\OtherCode\2020BGCbootcamp\ConsoleApp1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.dll
+C:\Slb\OtherCode\2020BGCbootcamp\ConsoleApp1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.pdb
+D:\2020BGCbootcamp\ConsoleApp1\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.deps.json
+D:\2020BGCbootcamp\ConsoleApp1\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.dll
+D:\2020BGCbootcamp\ConsoleApp1\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.pdb
+D:\2020BGCbootcamp\ConsoleApp1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.csprojAssemblyReference.cache
+D:\2020BGCbootcamp\ConsoleApp1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.csproj.CoreCompileInputs.cache
+D:\2020BGCbootcamp\ConsoleApp1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.AssemblyInfoInputs.cache
+D:\2020BGCbootcamp\ConsoleApp1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.AssemblyInfo.cs
+D:\2020BGCbootcamp\ConsoleApp1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.dll
+D:\2020BGCbootcamp\ConsoleApp1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.pdb
+D:\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.deps.json
+D:\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.dll
+D:\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.pdb
+D:\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.csprojAssemblyReference.cache
+D:\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.AssemblyInfoInputs.cache
+D:\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.AssemblyInfo.cs
+D:\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.dll
+D:\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.pdb
+D:\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.csproj.CoreCompileInputs.cache
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.deps.json
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.pdb
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.AssemblyInfoInputs.cache
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.AssemblyInfo.cs
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.pdb
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.xml
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.csproj.CoreCompileInputs.cache
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.csprojAssemblyReference.cache
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.csprojAssemblyReference.cache
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.AssemblyInfoInputs.cache
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.AssemblyInfo.cs
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.csproj.CoreCompileInputs.cache
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.pdb
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.deps.json
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.pdb
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.xml
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.deps.json
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.pdb
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.xml
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.csprojAssemblyReference.cache
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.AssemblyInfoInputs.cache
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.AssemblyInfo.cs
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.csproj.CoreCompileInputs.cache
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.pdb
+C:\Users\XLu14\source\repos\WebAPI\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.deps.json
+C:\Users\XLu14\source\repos\WebAPI\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.dll
+C:\Users\XLu14\source\repos\WebAPI\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.pdb
+C:\Users\XLu14\source\repos\WebAPI\ConsoleApp1.Common\bin\Debug\netstandard2.0\ConsoleApp1.Common.xml
+C:\Users\XLu14\source\repos\WebAPI\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.csprojAssemblyReference.cache
+C:\Users\XLu14\source\repos\WebAPI\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.AssemblyInfoInputs.cache
+C:\Users\XLu14\source\repos\WebAPI\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.AssemblyInfo.cs
+C:\Users\XLu14\source\repos\WebAPI\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.csproj.CoreCompileInputs.cache
+C:\Users\XLu14\source\repos\WebAPI\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.dll
+C:\Users\XLu14\source\repos\WebAPI\ConsoleApp1.Common\obj\Debug\netstandard2.0\ConsoleApp1.Common.pdb

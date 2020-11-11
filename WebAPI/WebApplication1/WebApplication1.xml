@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication1</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplication1.Controllers.ToDoItemController.QueryallAsync">
+            <summary>
+            Query ToDoItem by specific description and done
+            </summary>
+            <remarks>
+            In remarks, we can document some detail information
+            </remarks>
+            <param name="description">ToDoItem description</param>
+            <param name="done">ToDoItem status</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

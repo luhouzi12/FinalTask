@@ -1,0 +1,289 @@
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Slb\OtherCode\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\ConsoleApp1.Common.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\ConsoleApp1.Common.pdb
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\ConsoleApp1.Common.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\ConsoleApp1.Common.pdb
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.xml
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\ConsoleApp1.Common.xml
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\xsong5\OneDrive - Schlumberger\2020BGCbootcamp\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\ConsoleApp1.Common.dll
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\ConsoleApp1.Common.pdb
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\ConsoleApp1.Common.xml
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\LeiZhu\CSharpWorkSpace\Slb.Bootcamp.Service.ToDoList\sxl\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.xml
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\ConsoleApp1.Common.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\ConsoleApp1.Common.pdb
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\ConsoleApp1.Common.xml
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\XLu14\source\repos\2.Web API Zhu_Lei\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.xml
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.xml
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\ConsoleApp1.Common.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\ConsoleApp1.Common.pdb
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\bin\Debug\netcoreapp3.1\ConsoleApp1.Common.xml
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\XLu14\source\repos\WebAPI\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
